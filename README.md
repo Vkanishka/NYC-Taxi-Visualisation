@@ -1,5 +1,6 @@
 # NYC-Taxi-Visualisation
 
+Interactive Data Visualisation using R and Shiny
 
 # Steps to run the Visualization:
 
